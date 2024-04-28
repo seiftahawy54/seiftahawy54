@@ -1,6 +1,6 @@
 # Peace upon you all 👋😄
 
-My name is Seif Tahawy, I'm a proud Muslim, from Egypt. I'm passionate Software Engineer Student. I am studying Software Engineering at Helwan University.
+My name is Seif Hesham, I'm a proud Muslim, from Egypt. I'm a passionate Software Engineer.
 I love web development and JavaScript. 👨‍💻
 - - -
 <details>
